@@ -47,7 +47,7 @@ This repository contains a comprehensive document on Exploratory Data Analysis (
 ## File Structure
 
 The repository contains the following files:
-- `EDA_Document.pdf`  
+- `Exploratory Data Analysis.pdf`  
   The main document detailing the Exploratory Data Analysis process.
 
 ## Usage
